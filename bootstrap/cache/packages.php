@@ -72,6 +72,17 @@
       0 => 'Carbon\\Laravel\\ServiceProvider',
     ),
   ),
+  'nwidart/laravel-modules' => 
+  array (
+    'providers' => 
+    array (
+      0 => 'Nwidart\\Modules\\LaravelModulesServiceProvider',
+    ),
+    'aliases' => 
+    array (
+      'Module' => 'Nwidart\\Modules\\Facades\\Module',
+    ),
+  ),
   'santigarcor/laratrust' => 
   array (
     'providers' => 

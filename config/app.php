@@ -167,7 +167,7 @@ return [
         /*
          * Package Service Providers...
          */
-
+        //Modules\Core\Providers\CoreServiceProvider::class,
         /*
          * Application Service Providers...
          */
